@@ -6,40 +6,45 @@ This is a kikad project.
 Pinouts:
 
 10x1 header 
- 1  - VCC
- 2 - GND
- 3 - MOSI
- 4 - VCC
- 5 - RESET
- 6 - SCK
- 7 - MISO 
- 8 - GND
+
+	1 - VCC
+	2 - GND
+	3 - MOSI
+	4 - VCC
+	5 - RESET
+	6 - SCK
+	7 - MISO 
+	8 - GND
  
- 5x2 header
- 1 - MISO
- 2 - VCC
- 3 - NC
- 4 - GND
- 5 - RESET
- 6 - GND
- 7 - SCK
- 8 - GND
- 9 - MISO
- 10 - GND 
+5x2 header
+
+	1 - MISO
+	2 - VCC
+	3 - NC
+	4 - GND
+	5 - RESET
+	6 - GND
+	7 - SCK
+	8 - GND
+	9 - MISO
+	10 - GND 
  
- 1 - MISO
- 2 - VCC
- 3 - SCK
- 4 - MOSI
- 5 - RESET
- 6 - GND
+3x2 Header
+
+	1 - MISO
+	2 - VCC
+	3 - SCK
+	4 - MOSI
+	5 - RESET
+	6 - GND
  
- RJ45
- 1 - VCC
- 2 - NC
- 3 - MOSI
- 4 - NC
- 5 - REST
- 6 - SCK
- 7 - MISO
- 8 - GND
+RJ45 Connector
+
+	1 - VCC
+	2 - NC
+	3 - MOSI
+	4 - NC
+	5 - REST
+	6 - SCK
+	7 - MISO
+	8 - GND
