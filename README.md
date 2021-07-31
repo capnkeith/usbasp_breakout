@@ -5,7 +5,7 @@ This is a kikad project.
 
 Pinouts:
 
-10x1 header -
+10x1 header 
  1  - VCC
  2 - GND
  3 - MOSI
